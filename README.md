@@ -22,6 +22,7 @@ La entrega de los trabajos prácticos es obligatoria y debe ser realizada de man
 - **Ejercicio 1:** Debe ser entregado antes de la **Clase 3**.
 - **Ejercicio 2:** Debe ser entregado antes de la **Clase 4**.
 - **Ejercicio 3:** Debe ser entregado antes de la **Clase 5**.
+- **Ejercicio 4:** Optativo
 
 ---
 
