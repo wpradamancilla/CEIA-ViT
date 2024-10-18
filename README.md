@@ -66,7 +66,6 @@ La evaluación final se calculará mediante la siguiente fórmula:
 **Evaluación Global = 0.4 * Prácticas + 0.6 * Proyecto**
 
 
-
 ## Bibliografía
 
 Rothman, D. (2024) "Transformers for Natural Language Processing and Computer Vision: Explore Generative AI and Large Language Models with Hugging Face, ChatGPT, GPT-4V, and DALL-E." Packt Publishing; 3rd edition.
@@ -76,6 +75,9 @@ Dosovitskiy, A., et al. (2020) "An Image is Worth 16x16 Words: Transformers for 
 
 Vaswani, A., et al. (2017) "Attention is All You Need." Advances in Neural Information Processing Systems (NeurIPS).
 [Link](https://arxiv.org/abs/1706.03762)
+
+Haoran Z., et al. () "Understanding Why ViT Trains Badly on Small Datasets: An Intuitive Perspective"
+[Link](https://arxiv.org/pdf/2302.03751)
 
 Touvron, H., et al. (2021) "Training data-efficient image transformers & distillation through attention." International Conference on Machine Learning (ICML).
 [Link](https://arxiv.org/abs/2012.12877)
