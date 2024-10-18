@@ -76,7 +76,7 @@ Dosovitskiy, A., et al. (2020) "An Image is Worth 16x16 Words: Transformers for 
 Vaswani, A., et al. (2017) "Attention is All You Need." Advances in Neural Information Processing Systems (NeurIPS).
 [Link](https://arxiv.org/abs/1706.03762)
 
-Haoran Z., et al. () "Understanding Why ViT Trains Badly on Small Datasets: An Intuitive Perspective"
+Haoran Z., et al. (2023) "Understanding Why ViT Trains Badly on Small Datasets: An Intuitive Perspective"
 [Link](https://arxiv.org/pdf/2302.03751)
 
 Touvron, H., et al. (2021) "Training data-efficient image transformers & distillation through attention." International Conference on Machine Learning (ICML).
