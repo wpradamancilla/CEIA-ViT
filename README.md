@@ -85,11 +85,26 @@ Touvron, H., et al. (2021) "Training data-efficient image transformers & distill
 Carion, N., et al. (2020) "End-to-End Object Detection with Transformers." European Conference on Computer Vision (ECCV).
 [Link](https://arxiv.org/abs/2005.12872)
 
+Yuan, L., et al. (2021) "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet." IEEE International Conference on Computer Vision (ICCV).
+[Link](https://arxiv.org/abs/2101.11986)
+
+---
+
 Wu, B., et al. (2021) "CvT: Introducing Convolutions to Vision Transformers." International Conference on Computer Vision (ICCV).
 [Link](https://arxiv.org/abs/2103.15808)
 
-Yuan, L., et al. (2021) "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet." IEEE International Conference on Computer Vision (ICCV).
-[Link](https://arxiv.org/abs/2101.11986)
+"Transformers and Visual Transformers, Part of the book series: Neuromethods" ((NM,volume 197)) 
+[Link](https://link.springer.com/protocol/10.1007/978-1-0716-3195-9_6#keywords)
+
+Ze Liu, Yutong Lin et.al (2021), "Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows", ICCV  
+[Link-paper](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_Swin_Transformer_Hierarchical_Vision_Transformer_Using_Shifted_Windows_ICCV_2021_paper.html),  [Link-huggingface](https://huggingface.co/docs/transformers/model_doc/swin)
+
+Sachin Mehta y Mohammad Rastegari, "MOBILEVIT: Light-Weight, general-purpose, and mobile-friendly vision transformer” 
+[Link-paper](https://arxiv.org/abs/2110.02178), [Link-huggingface](https://huggingface.co/docs/transformers/model_doc/mobilevit)
+
+Wenhai Wang et.al. (2021), "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions" 
+[Link-paper](https://arxiv.org/abs/2102.12122), [Link-huggingface](https://huggingface.co/docs/transformers/v4.45.2/en/model_doc/pvt#transformers.PvtForImageClassification)
+
 
 
 
